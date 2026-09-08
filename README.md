@@ -1,3 +1,7 @@
+## Parcours francais
+
+Une lecture commentee de Seaport en francais, un mecanisme par chapitre, est disponible dans docs/fr/. Le sommaire se trouve dans docs/fr/README.md. Rien n'a ete installe, compile ni execute : ce parcours est purement documentaire.
+
 ![Seaport](img/Seaport-banner.png)
 
 [![Version][version-badge]][version-link]
